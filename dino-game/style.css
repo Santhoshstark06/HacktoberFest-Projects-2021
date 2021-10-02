@@ -4,14 +4,14 @@
     overflow-x: hidden;
 }
 .game{
-    width: 500px;
-    height: 200px;
+    width: 600px;
+    height: 300px;
     border: 1px solid black ;
     margin: auto;
 }
 #character{
-    width: 20px;
-    height: 50px;
+    width: 30px;
+    height: 60px;
     background-color: aqua;
     position: relative;
     top: 150px;
@@ -28,8 +28,8 @@
 }
 #block{
 
-    width: 30px;
-    height: 30px;
+    width: 50px;
+    height: 50px;
     background-color:palevioletred;
     position: relative;
     top: 120px;
